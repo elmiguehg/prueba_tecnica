@@ -16,7 +16,9 @@ BACKEND:
 
 Ejemplos de consultas a la APIRest:
 http://127.0.0.1:8000/api/v1/users
+
 http://127.0.0.1:8000/api/v1/usersbyrole
+
 http://127.0.0.1:8000/api/v1/filterbyrole/manager
 
 FRONTEND:
